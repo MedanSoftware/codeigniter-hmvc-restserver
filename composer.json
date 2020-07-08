@@ -1,9 +1,13 @@
 {
-    "name": "chriskacerguis/codeigniter-restserver",
+    "name": "medansoftware/codeigniter-hmvc-restserver",
     "description": "CI Rest Server",
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Medan Software",
+            "email": "medansoftware@gmail.com"
+        },
         {
             "name": "Chris Kacerguis",
             "email": "chriskacerguis@gmail.com"
